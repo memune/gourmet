@@ -1,0 +1,59 @@
+[33mcommit b02fec24178c9b098cff5c75b1defc894dc02aa8[m
+Author: memune <ordinary0826@gmail.com>
+Date:   Sun Aug 23 03:43:42 2015 +0000
+
+    게시글 삭제 기능 추가하기
+
+[33mcommit 44a4daf96dcb78365fd15cd0aaf133f814cbb3df[m
+Author: memune <ordinary0826@gmail.com>
+Date:   Sun Aug 23 03:39:23 2015 +0000
+
+    게시글 수정 기능 추가하기
+
+[33mcommit 0593ec21731a1565bd5f58b90e8a8af26034bcf6[m
+Author: memune <ordinary0826@gmail.com>
+Date:   Sun Aug 23 03:08:57 2015 +0000
+
+    게시글 작성 및 저장 기능 추가하기
+
+[33mcommit 85b1e8e635281c5f9ef0f1aa977039e0d01c1788[m
+Author: memune <ordinary0826@gmail.com>
+Date:   Sun Aug 23 01:39:02 2015 +0000
+
+    show 액션과 뷰 만들기
+
+[33mcommit 1ae0c028572afd5c7346ed9b2699b4ed4d6b0634[m
+Author: memune <ordinary0826@gmail.com>
+Date:   Sat Aug 22 16:32:39 2015 +0000
+
+    중복 코드 처리
+
+[33mcommit 6ab130bef7e070f1e537e3cf0da6111ea8f4ceeb[m
+Author: memune <ordinary0826@gmail.com>
+Date:   Sat Aug 22 16:15:54 2015 +0000
+
+    포스트 카테고리 액션과 뷰 만들기, application 레이아웃 수정
+
+[33mcommit b08c2619a91dd4681ed3e7c1d45f60f013bf4a47[m
+Author: memune <ordinary0826@gmail.com>
+Date:   Sat Aug 22 15:56:23 2015 +0000
+
+    post 테이블 시드 데이터 입력
+
+[33mcommit 346df0af47d8bb38bb9434b76af40125e0a9c682[m
+Author: memune <ordinary0826@gmail.com>
+Date:   Sat Aug 22 15:49:38 2015 +0000
+
+    food 컨트롤러 생성 및 posts 뷰 생성
+
+[33mcommit 0d13705d59f597f92e4b5917b2a8f389c1853c01[m
+Author: memune <ordinary0826@gmail.com>
+Date:   Sat Aug 22 15:22:35 2015 +0000
+
+    마이그레이션 파일 작성 및 각 db 생성
+
+[33mcommit eaf73cc9ff68d23c91e4f0adfddc2af00c91c90c[m
+Author: memune <ordinary0826@gmail.com>
+Date:   Sat Aug 22 15:04:05 2015 +0000
+
+    first commit
